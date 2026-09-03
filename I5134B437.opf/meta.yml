@@ -1,0 +1,24 @@
+id: I5134B437
+initial_creation_type: ebook
+source_metadata:
+  id: RCP-GON-01
+  title: ༄༅། །དམ་པའི་ཆོས་དགོངས་པ་གཅིག་པའི་རྣམ་བཤད་ལུང་དོན་གསལ་བྱེད་ལེགས་བཤད་ཉི་མའི་སྣང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  author: མཛད་པ་པོ། ༧རྗེ་རིག་འཛིན་ཆོས་ཀྱི་གྲགས་པ།
+  authors: &id001
+  - མཛད་པ་པོ། ༧རྗེ་རིག་འཛིན་ཆོས་ཀྱི་གྲགས་པ།
+  sku: RCP-GON-01
+  cover: RCP-GON-01.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །དམ་པའི་ཆོས་དགོངས་པ་གཅིག་པའི་རྣམ་བཤད་ལུང་དོན་གསལ་བྱེད་ལེགས་བཤད་ཉི་མའི་སྣང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors: *id001
+  sku: RCP-GON-01
+  cover: RCP-GON-01.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
